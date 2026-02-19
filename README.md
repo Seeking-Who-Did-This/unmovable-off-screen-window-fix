@@ -31,4 +31,4 @@ Really just 2 steps, broken down into 6 sub-steps (for the instructionally limit
 ## Use the Program
 1. Use the "Select Window" drop-down box to pick the window you want to move (click ↺ to update the list of running windows)
 2. Press "Click Location to Move"
-3. Anywhere you click is where the TOP-RIGHT corner of your window will be moved to
+3. Anywhere you click is where the TOP-LEFT corner of your window will be moved to
