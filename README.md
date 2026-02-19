@@ -1,5 +1,6 @@
 # Why I Made This (*I was mad*)
 Ever have a problem with Windows 11 and find [endless comment threads like this one](https://learn.microsoft.com/en-us/answers/questions/4139775/app-runs-off-screen-in-windows-11?page=18#answers)?
+
 Ever feel like Microsoft would clearly rather you fuck off into the sun instead of fixing their own dysfunctional OS?
 
 The world isn't perfect, help seems nowhere to be found, and that's why I put this together. This is all so annoying.
