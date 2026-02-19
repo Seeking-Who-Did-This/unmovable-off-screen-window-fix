@@ -18,6 +18,8 @@ You've probably already wasted a lot of time, with a bunch of STUPID hotkeys, pr
 
 None of that worked.
 
+![Window Mover](winmove.png)
+
 This powershell program lets you select an open window and move it to the coordinates you click, on your current screen.
 
 # The fastest way to use this (if you're in a hurry)
