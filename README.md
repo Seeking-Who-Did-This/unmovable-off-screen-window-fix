@@ -32,3 +32,6 @@ Really just 2 steps, broken down into 6 sub-steps (for the instructionally limit
 1. Use the "Select Window" drop-down box to pick the window you want to move (click ↺ to update the list of running windows)
 2. Press "Click Location to Move"
 3. Anywhere you click is where the TOP-LEFT corner of your window will be moved to
+
+Some windows on your desktop run as elevated processes. To move those, choose "Run as Administrator" for starting Powershell ISE and then run the script (so it is also Elevated).
+
