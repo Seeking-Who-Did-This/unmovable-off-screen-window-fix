@@ -28,7 +28,7 @@ Really just 2 steps, broken down into 6 sub-steps (for the instructionally limit
 
 ## Open Powershell ISE & Paste Script
 1. On your computer, search for & open "Windows Powershell ISE"
-2. Copy the `.ps1` script and paste it into the untitled text box in Powershell ISE
+2. Copy the `move-a-window.ps1` script and paste it into the untitled text box in Powershell ISE
 3. Click the green "play" icon to run the program
 
 - If using multiple displays, *move the "Window Mover" into that display first!
